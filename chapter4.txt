@@ -1,1 +1,4 @@
 local goes to staging goes to online server.
+add,status,
+commit,log
+checkout,diff
